@@ -1,6 +1,6 @@
-# flow-next-template
+# next-flow-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A Next.js 13 template for building apps with Flow UI and Tailwind CSS.
 
 ## Usage
 
