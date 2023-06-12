@@ -1,0 +1,10 @@
+cache
+.cache
+public
+node_modules
+package.json
+package-lock.json
+.yarn
+dist
+build
+.next
